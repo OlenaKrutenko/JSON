@@ -1,1 +1,20 @@
 
+[{ "ID":"B1",
+    "Summary":"The language flag does not change in the top menu when switching the language from English to any.",
+    "Steps to Reproduce":"1.Open the site https://www.amazon.com/, 2. In the top menu of the site on the right click the icon "Change language".3. In the window that opens, select radiobutton Español - ES - Traducción4.Press the "Guardar Cambios" button.5. After switching the language, the flag does not switch to Spanish.",
+   "Actual Result":"When switching languages ​​from English to Spanish, there is no change of flag.",
+  "Expected Result":"When switch languages ​​from English to Spanish, the flag changes.",
+  "Severity":"Minor",
+  "Priority":"Hight"
+  }
+ {"ID":"B2",
+    "Summary":"Content "Amazon's response to COVID-19" is not translated in the block menu item on the top right when the language is switched from English to German.",
+    "Steps to Reproduce":"1. Open the site.,
+                          2.In the header change the language from English to Deutsch - DE - Übersetzung.
+                          3.The content of the "Amazon's response to COVID-19" content in the top menu item on the left is not translated from English into German.",
+   "Actual Result":"When switching from English to German, the content "Amazon's response to COVID-19" is not translated..",
+  "Expected Result":"When switching from English to German, the content "Amazon's response to COVID-19" is  translated.",
+  "Severity":"Minor",
+  "Priority":"Low"
+ }
+]
