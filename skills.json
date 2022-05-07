@@ -3,5 +3,6 @@
   "documention_of_testing": "bug_report",
   "documention_of_testing": "test_cases",
  " skills": "postman",
- "skills":"git"
+ "skills":"git",
+ "skills":"chai"
 }
